@@ -10,3 +10,12 @@ My role
 - Implementing Dijkstra algorithm
 - Implementing an algorithm about putting obstacles.
 - 그 외 
+
+
+<h2>Screen shot</h2>
+
+[![Screenshot1](/TrickorTreat1.jpg)](/TrickorTreat1.jpg)
+
+[![Screenshot2](/TrickorTreat2.jpg)](/TrickorTreat2.jpg)
+
+[![Screenshot3](/TrickorTreat3.jpg)](/TrickorTreat3.jpg)
