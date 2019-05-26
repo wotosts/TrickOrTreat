@@ -1,7 +1,10 @@
 # TrickOrTreat
 
-Find the right way and put obstacles.
+Find the path of the length shown while laying the obstacle.
 
+2015-2 Algorithm class final team project.
+
+ 
 My role
 - Creating Graphic Resource
 - Implementing Dijkstra algorithm
