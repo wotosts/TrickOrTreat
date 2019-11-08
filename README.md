@@ -8,8 +8,8 @@ Find the path of the length shown while laying the obstacle.
 My role
 - Creating Graphic Resource
 - Implementing Dijkstra algorithm
-- Implementing an algorithm about putting obstacles.
-- 그 외 
+- Implementing functions about putting obstacles.
+- Test
 
 
 <h2>Screen shot</h2>
